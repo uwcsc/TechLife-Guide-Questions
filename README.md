@@ -1,8 +1,6 @@
 # TechLife-Guide-Questions
 Questions that will be in the first iteration of our TechLife Guide!
 
-# Winter 2022 Internships
-
 Maintained by [UW CS Club](http://csclub.uwaterloo.ca/).
 
 This repo will store all the unique questions that will be answered on our TechLife Guide!
