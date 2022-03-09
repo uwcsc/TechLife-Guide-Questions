@@ -15,4 +15,9 @@ Message us on our Discord if you have questions! 🚀
 
 | Category | Question | Approval Date | Notes |
 |--------------|----------|----------|-------|
-|  |  |  |  |
+| First year advice | What do you wish you prioritized more as a younger student (eg. first year)? | Mar 9 |  |
+| First year advice | What regrets do you have from first year?  | Mar 9 |
+| Commitments | What’s one club that you would recommend joining? Do you have any tips for how to get in? | Mar 9 |
+| Working with tech | How much should you code in your free time? | Mar 9 |
+| Working with tech | I feel that courses aren't a great way to learn things such as working with web dev and GitHub. What tips do you have for getting started? | Mar 9 |
+|  |  | |
