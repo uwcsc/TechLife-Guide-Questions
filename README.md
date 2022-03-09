@@ -7,7 +7,9 @@ This repo will store all the unique questions that will be answered on our TechL
 
 Feel free to contribute by submitting a pull request :octocat: or by using this [form](https://bit.ly/csc-techlife-guide-questions) 📋!
 
-If a question has already been asked, try to think of other questions that you have, as we will only approve one of each. Note that the categories are very open to what you wish them to be, but we can categorize them ourselves if you aren't sure what you think the question(s) you ask fall under. Some example categories could be Academics, Co-op Search, or CSC opportunities! 
+If a question has already been asked, try to think of other questions that you have, as we will only approve one of each. Note that the categories are very open to what you wish them to be, but we can categorize them ourselves if you aren't sure what you think the question(s) you ask fall under. Some example categories could be Academics, Co-op Search, or CSC opportunities!
+
+If you are an upper year and don't have many questions, maybe put some questions that you think you'd love to hear answered from the perspective of a younger university student, or even an incoming one.
 
 Message us on our Discord if you have questions! 🚀
 
