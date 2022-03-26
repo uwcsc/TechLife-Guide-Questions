@@ -23,3 +23,17 @@ Message us on our Discord if you have questions! 🚀
 | Co-op Search | How do I create the perfect resume for co-op? | Mar 12 |  |
 | First year advice | What should I do to prepare for university life? | Mar 12 |  |
 | Working with tech | How do I learn a new language that doesn’t have much documentation? | Mar 12 |  |
+| Extracurriculars | What clubs or opportunities in relation to tech are there at Waterloo for first year students to partake in? | Mar 23 |
+| Co-op Search | What’s the benefit of using WaterlooWorks? | Mar 23 |
+| Co-op Search | How should I prepare for technical interviews? | Mar 25 |
+| Social Life | How should I “keep in touch” with people that I’ve met? | Mar 25 |
+| Social Life | What are some non-party things to do to have fun? | Mar 25 |
+| Academics | Registering for courses - how can I plan things out and see prof reviews? | Mar 26 |
+| Working with tech | I don’t want to pay for servers or manage them since I don’t feel that whatever I’d make would warrant having to actually pay for it. What do I do? | Mar 26 |  |
+| Working with tech | What’s the difference between working on a front-end vs back-end component of a project? Is one harder than the other? | Mar 26 |
+| Extracurriculars | What benefits are there from joining clubs versus working on my own things? | Mar 26 |
+| Extracurriculars | How do I become an executive/organizer of a tech-related club? | Mar 26 |
+| Co-op Search | I keep finding that I’m not getting ranked on every cycle, or have a very low number of rankings compared to some friends. What could I be doing better? | Mar 26 |
+| Co-op Search | Should I be looking outside of WaterlooWorks for more jobs early on? | Mar 26 |
+| Social Life | How can I meet people outside of classes? | Mar 26 |
+
