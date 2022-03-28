@@ -13,6 +13,8 @@ If you are an upper year and don't have many questions, maybe put some questions
 
 Message us on our Discord if you have questions! 🚀
 
+**Note**: The different folders are for the questions in their respective categories, but the following is a list of all currently unanswered questions.
+
 | Category | Question | Approval Date | Notes |
 |--------------|----------|----------|-------|
 | First year advice | What do you wish you prioritized more as a younger student (eg. first year)? | Mar 9 |  |
